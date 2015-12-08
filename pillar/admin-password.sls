@@ -1,33 +1,33 @@
 #!yaml|gpg
 
-test-final:
+admin:
   tag_one: |
     -----BEGIN PGP MESSAGE-----
     Version: GnuPG v1
     
-    hQEMAyZNhvUFOmh0AQf8CxJrz/QuF344eux9AiOma0dZ8iJiuyCckmVxk07ikDGc
-    LnO5yYYX3l29THvU5VNedyTeXup+GTysTEZSYKRk+VYUTKlhxq5U74yYqRUnIPAb
-    3w8exHmf8tD+OrOot99I6RSr+xI0ZkafSvY/MrzYF3O64M5hSOWRl9LdXlyuoT4l
-    vGCA0nz0e1BBf1lJ+I5c83uJBGOYkZh2HLzZ5obIHG4Uu7uXm8VBl4nfQfxQ9A6Y
-    EZaN///MmYipHZJXtY24BPXTVc95clhORIxvWwBWnjgxBaI3S8xEk3c79tXoRd5F
-    RUYsAGlyiotBGe6QHJunNcdlmTTZz9Dh83+kAgqu89JTAe7akqq/IRbGjkqTJEad
-    x3b9/oos3vscMiRolgLD57iSW5hqXFjz+qPaxQjg2FzdML7E6Sbd7emqDY9Y2Pu0
-    HB/28thq3Yyko/4v96hcyUEI+wM=
-    =yEUg
+    hQEMAyZNhvUFOmh0AQgArpOtuzHfy+zYI8dGZtgvxs9p8nHMpllv1joIWneI+map
+    LH7XRwsBZcGiiDUo3TZXSxezbA302b/G7prYEPobYylP4iFdZ3I7LkSKKje8dR7U
+    jTFMtIqTPm0F0DnWPG6oKjvED0MYYnqEORMW4f+xp+kmNdtZ++yBk89Q+sicUGWF
+    61IdXem72lKtw1I2jRRfwm+RDVZDKU3JmH21/1WH6E6DWw9jmgH094m+q7IdEtYi
+    POl9N8DpX1aKYXgoAWOqo/vh/leOudfmHLuMG/Vjloq3she0xCLY152eRPO1iKF8
+    vOSr6347nH+yxK8lmoYc9L/hpi2NK5Yc3yJXFw0S1NJbAQ23fBAWEUhaghNmL4qh
+    CAUHdAzpfwG4wPBqpIywsCWFyiTyndes5tiBAeGVMUSK7RkQCjOa+jeGGqxE+ytL
+    DiV22cC9J5KaLWVqBzzgdOGgLJDvdc7k0jwyKQ==
+    =G5RX
     -----END PGP MESSAGE-----
     
   password: |
     -----BEGIN PGP MESSAGE-----
     Version: GnuPG v1
     
-    hQEMAyZNhvUFOmh0AQf8CL+raNXZvqkzb5HCZe0naYlKceiff1GA7zL0Ke2N+Pv2
-    W/rVk/ky4NzGKpt3sqMZj/FlVpatRtjt7xKUn7yPsSnA/B31Ti+X29hw4eHFAyb5
-    oe4Aowi8C8rZTtiarL6KUIXwL1nCq3VHksqxCwgrwRXMY88Mva0CC3wR1O50YW/a
-    31CCQJNCPHuAm8mWyH+BNEZo5ouUljfA+p4ukUJXlF7YXVclLlsArkTHzEVeOPr4
-    jIdPFTawsjEVqB+G/yNWcUDD2fxBiFz/SD0noBpSTd6SF5t9uY739ju6vro5hUvp
-    /lTjxcW2UTesKttEBioHNg+X+LjrJTOzq5lRHwWwotJBAai06KCsD5andJbVS7Es
-    KitPjPgXq6jTW1YhKOxI0h81xL/aRZF/l6CHAaMYtN1AZiWFSJUVdOUIuoBBHjhL
-    Si8=
-    =yCOv
+    hQEMAyZNhvUFOmh0AQgA2LU1x8D32aHHcMbJZWYBYZ1kAYrGJyAIYO9kbgs+f8/3
+    jEH0uxr2iifwK0aXmxtMtMolA2URglU1gCQgjBl8iGEpuJjHP/T9Qz7H8cmoPaMI
+    XzfZZcSM3pSjR6etn2uyg806do2ENfc9q68wvC3wrVc4OpojrujZacoI7m3ZzhPc
+    xwJywYh2TWe5chSbqtaX9pr/1b3H5h/HQvmkZJhlrF7CenfEwisTkmexFJtCujXX
+    CkpQ74rbAkRbgqkjCU0Z//ANGHuevVJxPwBGc13LXDQoUMHXy/3cHPsqvY+IOw+P
+    9zmyw4WyemMAIs83nvZOwWYKcqCXu9BHBYqs/zj3HNJBAVg/z7OMH7ohvAut9YMn
+    9Fppqoq1dRd4WeSHVKU+5uBHeh7aykeK82abi4gkoG7G/JLjkENTWL0rPuPhgAz7
+    xfc=
+    =iW82
     -----END PGP MESSAGE-----
     
