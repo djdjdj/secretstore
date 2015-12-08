@@ -2,3 +2,4 @@ base:
   '*':
     - pass
     - test
+    - result
