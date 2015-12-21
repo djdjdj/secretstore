@@ -7,4 +7,3 @@ base:
     - poc
     - crxadmin   
     - admin
-    - users
