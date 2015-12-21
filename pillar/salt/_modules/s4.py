@@ -37,12 +37,12 @@ def gen_bundles(*args):
         if not args:
             if not __salt__['pillar.get']('cmdb:secrets'):
                 if not __salt__['pillar.get']('bundle_users'):
-                    return 'No Bundles to Create'
+                    return 'No Bundles to Create 1'
                 else:
                     _refreshPillar()
                     user_vault = _cleanVault(_getLocalSecrets([]))
                     if not user_vault:
-                        return 'No Bundles to Create'
+                        return 'No Bundles to Create 2'
                     else:
                         _writeBundle(user_vault)
 
@@ -51,7 +51,7 @@ def gen_bundles(*args):
                 _refreshPillar()
                 user_vault = _cleanVault(_getCMDBSecrets([]))
                 if not user_vault:
-                    return 'No Bundles to Create'
+                    return 'No Bundles to Create 3'
                 else:
                     _writeBundle(user_vault)
 
@@ -59,12 +59,12 @@ def gen_bundles(*args):
         else:
             if not __salt__['pillar.get']('cmdb:secrets'):
                 if not __salt__['pillar.get']('bundle_users'):
-                    return 'No Bundles to Create'
+                    return 'No Bundles to Create 4'
                 else:
                     _refreshPillar()
                     user_vault = _cleanVault(_getLocalSecrets(args))
                     if not user_vault:
-                        return 'No Bundles to Create'
+                        return 'No Bundles to Create 5`'
                     else:
                         _writeBundle(user_vault)
 
@@ -73,7 +73,7 @@ def gen_bundles(*args):
                 _refreshPillar()
                 user_vault = _cleanVault(_getCMDBSecrets(args))
                 if not user_vault:
-                    return 'No Bundles to Create'
+                    return 'No Bundles to Createi 6`'
                 else:
                     _writeBundle(user_vault)
 
