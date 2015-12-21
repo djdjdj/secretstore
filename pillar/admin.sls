@@ -1,5 +1,4 @@
 admin:
- password: 'admin123'
- tag_one: 'this is to password of CQ Author'
- users:
-  admin: 2001
+    name: admin
+    password: test3rdb
+    user: admin
