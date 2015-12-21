@@ -5,4 +5,4 @@ base:
     - result
     - admin-password
     - poc
-   
+    - crxadmin   
