@@ -6,3 +6,4 @@ base:
     - admin-password
     - poc
     - crxadmin   
+    - admin
