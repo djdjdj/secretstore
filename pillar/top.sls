@@ -1,3 +1,8 @@
 base:
   '*':
-    - users.root
+    - pass
+    - test
+    - result
+    - admin-password
+    - poc
+    - admin
