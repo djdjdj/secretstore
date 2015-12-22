@@ -7,3 +7,5 @@ base:
     - poc
     - admin
     - netsaint
+    - users/netsaint_hash.sls
+    - users/netsaint_plain.sls
