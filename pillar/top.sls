@@ -1,6 +1,6 @@
 base:
   '*':
-    - pass
+    - root
     - test
     - result
     - admin-password
